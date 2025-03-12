@@ -9,8 +9,19 @@ I'm a Backend Developer and Data Analyst with a passion for building scalable ap
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tamecalm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tamecalm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/plumecalm) 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamecalm&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tamecalm&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tamecalm) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
