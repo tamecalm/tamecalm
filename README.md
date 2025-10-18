@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=tamecalm&theme=monokai)](https://git.io/streak-stats)
+
 ## Hi there, I'm Ilesanmi Kehinde 👋
 
 # 💫 About Me:
