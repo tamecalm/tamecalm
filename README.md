@@ -74,3 +74,20 @@ I love solving real-world problems through code, experimenting with new technolo
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamecalm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/tamecalm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tamecalm" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/born2b0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/tamecalm" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
