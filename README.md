@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@600&size=28&pause=1200&center=true&vCenter=true&width=700&duration=4000&color=00FFD1,00A3FF,00FF88,00FFD1&background=00000000&lines=👋+Hey+there,+I'm+John!;Backend+Developer+%26+Automation+Enthusiast;Building+Cool+Bots+and+Toolkits+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tamecalm&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/tamecalm?label=Followers&style=flat-square&color=blue" />
