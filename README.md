@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@600&size=28&pause=1200&center=true&vCenter=true&width=700&duration=4000&color=00FFD1,00A3FF,00FF88,00FFD1&background=00000000&lines=👋+Hey+there,+I'm+John!;Backend+Developer+%26+Automation+Enthusiast;Building+Cool+Bots+and+Toolkits+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamecalm&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/tamecalm?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/tamecalm?label=Stars&style=flat-square&color=yellow" />
+</div>
+<br>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tamecalm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tamecalm&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
 # 💫 About Me:
 I'm a Software Developer and Data Analyst with a passion for building scalable applications, automating workflows, and solving complex problems. With expertise in JavaScript (Node.js), Python, VBA, and Google Apps Script, I develop backend solutions, Telegram bots, and data automation scripts.<br><br>I hold a degree in Computer Engineering from Ekiti State University, and I'm always eager to learn and implement new technologies.
 
