@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=👋+Hey+there,+I'm+John!;Backend+Developer+%26+Automation+Enthusiast;Building+Cool+Bots+and+Toolkits+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=tamecalm&theme=monokai)](https://git.io/streak-stats)
 
 ## Hi there, I'm Ilesanmi Kehinde 👋
