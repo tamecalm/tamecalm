@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=👋+Hey+there,+I'm+John!;Backend+Developer+%26+Automation+Enthusiast;Building+Cool+Bots+and+Toolkits+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tamecalm&theme=monokai)](https://git.io/streak-stats)
-
-## Hi there, I'm Ilesanmi Kehinde 👋
-
 # 💫 About Me:
 I'm a Software Developer and Data Analyst with a passion for building scalable applications, automating workflows, and solving complex problems. With expertise in JavaScript (Node.js), Python, VBA, and Google Apps Script, I develop backend solutions, Telegram bots, and data automation scripts.<br><br>I hold a degree in Computer Engineering from Ekiti State University, and I'm always eager to learn and implement new technologies.
 
