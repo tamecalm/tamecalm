@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-Hi, I'm **John Ilesanmi**, a backend-focused software engineer passionate about designing reliable, scalable, and high-performance systems. I build production-ready services, automation tools, and developer utilities that prioritize clarity, maintainability, and efficiency. My core stack includes **JavaScript/TypeScript with Node.js**, and I enjoy architecting APIs and backend services that translate complex requirements into clean, structured solutions.
+Hi, I'm **John**, a backend-focused software engineer passionate about designing reliable, scalable, and high-performance systems. I build production-ready services, automation tools, and developer utilities that prioritize clarity, maintainability, and efficiency. My core stack includes **JavaScript/TypeScript with Node.js**, and I enjoy architecting APIs and backend services that translate complex requirements into clean, structured solutions.
 
 While backend engineering is my primary strength, I’m comfortable working across the stack and collaborating to deliver cohesive, well-designed products. I care deeply about system design, performance optimization, and writing intentional code that scales with both users and teams. I’m continuously exploring new technologies and building tools that make everyday workflows smarter and more efficient.
 
