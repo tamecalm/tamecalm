@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@600&size=28&pause=1200&center=true&vCenter=true&width=700&duration=4000&color=00FFD1,00A3FF,00FF88,00FFD1&background=00000000&lines=👋+Hey+there,+I'm+John!;Backend+Developer+%26+Automation+Enthusiast;Building+Cool+Bots+and+Toolkits+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@600&size=28&pause=1200&center=true&vCenter=true&width=700&duration=4000&color=00FFD1,00A3FF,00FF88,00FFD1&background=00000000&lines=👋+Hey+there,+I'm+John!;Backend+Engineer+%26+Automation+Builder;Designing+Scalable+Systems+⚙️;Continuous+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,19 +15,20 @@
 
 ## 🌟 About Me
 
-Hi, I'm **John Ilesanmi** a passionate **Backend Developer**, **Data Analyst**, and **Automation Enthusiast**. I enjoy building scalable systems, efficient bots, and terminal toolkits that make everyday tasks smarter and faster.  
+Hi, I'm **John Ilesanmi**, a backend-focused software engineer passionate about designing reliable, scalable, and high-performance systems. I build production-ready services, automation tools, and developer utilities that prioritize clarity, maintainability, and efficiency. My core stack includes **JavaScript/TypeScript with Node.js**, and I enjoy architecting APIs and backend services that translate complex requirements into clean, structured solutions.
 
-With hands-on experience in **Node.js**, **Python**, and **DevOps practices**, I focus on creating clean, maintainable solutions that bridge backend logic with automation workflows.  
-
-I love solving real-world problems through code, experimenting with new technologies, and continuously learning to improve my craft, one project at a time. 
+While backend engineering is my primary strength, I’m comfortable working across the stack and collaborating to deliver cohesive, well-designed products. I care deeply about system design, performance optimization, and writing intentional code that scales with both users and teams. I’m continuously exploring new technologies and building tools that make everyday workflows smarter and more efficient.
 
 ## 💻 Coding Languages
 
 - **Working with 👉**
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
@@ -35,10 +36,7 @@ I love solving real-world problems through code, experimenting with new technolo
 
 - **Interested in learning 👉**
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 </p>
 
 ## 🧰 Tools & Technologies
@@ -47,6 +45,9 @@ I love solving real-world problems through code, experimenting with new technolo
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /></a>
@@ -61,7 +62,6 @@ I love solving real-world problems through code, experimenting with new technolo
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" /></a>
